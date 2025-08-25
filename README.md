@@ -1,3 +1,4 @@
-Hi, I'm @jjmorg04. 
-I'm interested in Computer Science and Mobile Development. 
-I'm currently learning JS and React Native. 
+Hello, I'm Jett Morgan.
+I'm a senior at SDSU, studying Computer Science.
+I'm interested in Web and Mobile Development. 
+I'm currently learning JS.
